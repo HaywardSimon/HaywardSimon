@@ -11,7 +11,9 @@ Thanks for checking out my profile!
 ## Coding Background
 <details>
 <summary>Programming Languages</summary>
+   
 ### Programming Lanuages that I have experience using
+   
 #### Proficient in:
 * Java
     
@@ -32,21 +34,33 @@ Thanks for checking out my profile!
 
 <details>
 <summary>Programming Courses</summary>
+   
 ### Courses I've taken relating to programming, along with skills developed from them
+   
 #### High School
+   
 * AP Computer Science A (Junior Year) - Java
 
 * AP Computer Science A Teachers Assistant (Senior Year) - Java, Leading, Teaching
 
 #### Northeastern University
+
 * CS2500 (Fall 2024) - Racket, Program Design
+  
 * CS2510 (Spring 2025) - Java, Program Design
+  
 * CS3540 (Spring, 2025) - C#, Unity Game Engine, Game Development
+  
 * CS3520 (Summer, 2025) - C++, Git, Command Line Interfaces
-* CY2550 (Summer, 2025) - Git, Linux, Cybersecurity\
+  
+* CY2550 (Summer, 2025) - Git, Linux, Cybersecurity
+  
 * CS3100 (Fall, 2025) - Java, Object-Oriented Design
+  
 * CS2800 (Fall, 2025) - OCaml
+  
 * DS3000 (Fall, 2025) - Python, Data Processing
+
 </details>
 
 ## Projects
