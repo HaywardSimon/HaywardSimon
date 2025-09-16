@@ -65,6 +65,6 @@ Thanks for checking out my profile!
 
 ## Projects
 ### Meat Grinder Time Warp
- * WIP
+ * [A video game developed in Unity for a final project in Northeastern University's Game Programming course.](https://github.com/HaywardSimon/Meat-Grinder-Time-Warp)
 ### Dino Game
  * WIP
